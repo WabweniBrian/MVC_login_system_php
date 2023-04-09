@@ -1,0 +1,15 @@
+{
+  "name": "brian/user_auth",
+  "autoload": {
+    "psr-4": {
+      "app\\": "./"
+    }
+  },
+  "authors": [
+    {
+      "name": "Brian",
+      "email": "wabwenib66@gmail.com"
+    }
+  ],
+  "require": {}
+}
