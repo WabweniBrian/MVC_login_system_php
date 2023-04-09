@@ -1,4 +1,4 @@
-# ADVANCED LOGIN SYSTEM WITH MVC FRAMEWORK PATTERN
+# ADVANCED LOGIN SYSTEM WITH MVC FRAMEWORK PATTERNS
 
 In this Login system, we try to implement all the cool MVC patterns such as:
 
