@@ -2,6 +2,8 @@
 
 namespace app;
 
+use app\Http\Request;
+
 class Router
 {
     public array $getRoutes = [];
